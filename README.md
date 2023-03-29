@@ -34,5 +34,5 @@ Here are some ideas to get you started:
     <br/>
     <br/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bcgrhio)](
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bcgrhio)
   </div>
